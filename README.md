@@ -1,1 +1,1 @@
-# mm_support
+# MM Support - Simple Telegram Bot server
